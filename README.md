@@ -1,0 +1,1 @@
+In this code, we implemented the lexical analyzer of a typical language called Pascal*, which is a simple form of the Pascal language.
